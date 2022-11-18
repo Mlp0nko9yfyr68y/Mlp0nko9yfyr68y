@@ -1,0 +1,10 @@
+1er Paso: Ir al Link Que esta en la descripcion del video y descargar las Instrucciones
+2do Paso: Entrar a https://ngrok.com/ y crear una cuenta
+3er Paso: Ir hacia "Your AuthToken" y copiar el token
+4to Paso: Ir a https://github.com/ y crear una cuenta
+5to Paso: Ir a este link https://github.com/WerkoESixSixSiX/rdptest1
+6to Paso: Presionar la opcion "Fork"
+7mo Paso: Ir a la opcion "Settings" En el repositorio 
+8vo Pas0: Ir hacia "Secrets" Despues "Actions" Darle a "New repository secret", Escribir en "Name": NGROK_AUTH_TOKEN Y en Value Pegamos el Token
+9no Paso: Ir hacia Actions En el Repositorio Presionar en "CI y seguido de esto presionar :Run workflow"
+10mo Paso: Ver el Resto del video para saber como entrar al RDP
